@@ -2,7 +2,7 @@
 
 These are a few of my favorite things:
 
--Dogs, Corgis in particular
+- Dogs, Corgis in particular
 - Raindrops on roses
 - Whiskers on kittens
 - Bright copper kettles
